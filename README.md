@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jorge Adame Prudencio and I am a Computer Science and Computer Engineering student at Universidad Rey Juan Carlos (Móstoles - Spain)
+My name is Jorge Adame Prudencio and I am a Computer Science and Software Engineering student at Universidad Rey Juan Carlos (Móstoles - Spain)
 
 The main information you should know about me are:
 
